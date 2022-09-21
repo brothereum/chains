@@ -4694,17 +4694,17 @@
   }]
 }, {
   "name": "BROChain Mainnet",
-  "chain": "BRO",
+  "chain": "BRX",
   "network": "mainnet",
   "rpc": ["https://rpc.brochain.org", "http://rpc.brochain.org", "https://rpc.brochain.org/mainnet", "http://rpc.brochain.org/mainnet"],
   "faucets": [],
   "nativeCurrency": {
-    "name": "Brother",
-    "symbol": "BRO",
+    "name": "Brocoin",
+    "symbol": "BRX",
     "decimals": 18
   },
   "infoURL": "https://brochain.org",
-  "shortName": "bro",
+  "shortName": "brx",
   "chainId": 108801,
   "networkId": 108801,
   "explorers": [{
